@@ -2,7 +2,7 @@
 
 # ContaTerminal.java
 
-Este é um simples projeto em Java que simula a criação de uma conta bancária. O código solicita ao usuário informações básicas sobre sua conta, como número da conta, agência, nome do cliente e saldo. Após coletar os dados, ele exibe as informações inseridas de forma clara e organizada.
+Este é um simples projeto em Java que simula a criação de uma conta bancária, inspirado no desafio **Simulando uma Conta Bancária através do Terminal/Console** da plataforma **Digital Innovation One (DIO)**. O código solicita ao usuário informações básicas sobre sua conta, como número da conta, agência, nome do cliente e saldo. Após coletar os dados, ele exibe as informações inseridas de forma clara e organizada.
 
 ## Descrição
 
@@ -40,22 +40,3 @@ O código segue várias boas práticas de programação, como:
 1. Clone este repositório para sua máquina local:
    ```bash
    git clone https://github.com/Takdoi/conta-terminal.git
-   ```
-
-2. Navegue até o diretório do projeto:
-   ```bash
-   cd conta-terminal
-   ```
-
-3. Compile e execute o programa:
-   ```bash
-   javac ContaTerminal.java
-   java ContaTerminal
-   ```
-
-4. Siga as instruções no terminal para inserir os dados solicitados.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-```
